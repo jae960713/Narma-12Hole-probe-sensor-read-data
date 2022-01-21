@@ -1,1 +1,3 @@
-# Narma-12Hole-probe-sensor-read-data
+This code is displaying 12Hole probe pressure sensor data.
+
+Sensor is made by KARI.
